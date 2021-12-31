@@ -17,4 +17,5 @@ def madlibs():
 
         print("", adj, "",foods1,"",foods2,"",verb,"",saying,"",noun,"",color,"",ride,"",animal,"",person)
 
+
 madlibs()
